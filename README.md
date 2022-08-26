@@ -13,7 +13,7 @@
 пользователей двух столиц — Москвы и Санкт-Петербурга.</td>
 </tr>
 <tr>
-  <td><a href ="https://github.com/GreyGreyWolf/Yandex_Practicum_Data_Science/blob/master/project_1_data_preprocessing.ipynb"></a>Исследование 
+  <td><a href  = https://github.com/GreyGreyWolf/Yandex_Practicum_Data_Science/blob/master/project_1_data_preprocessing.ipynb"></a>Исследование 
 надёжности заёмщиков — анализ банковских данных</td>
   <td>
 На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата 
@@ -26,10 +26,8 @@
   <td>Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир</td>
 </tr>
 <tr>
-  <td><a href 
-="https://github.com/GreyGreyWolf/Yandex_Practicum_Data_Science/blob/master/project_3_determination_of_the_prospective_tariff.ipynb"></a>Определение 
-выгодного тарифа для телеком компании
-</td>
+  <td><a href = "https://github.com/GreyGreyWolf/Yandex_Practicum_Data_Science/blob/master/project_3_determination_of_the_prospective_tariff.ipynb"></a>Определение 
+выгодного тарифа для телеком компании</td>
   <td>На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа</td>
 </tr>
 <tr>
