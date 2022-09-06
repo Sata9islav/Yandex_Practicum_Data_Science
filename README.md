@@ -20,7 +20,7 @@
 надёжности заёмщиков — анализ банковских данных</a></td>
   <td>На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата 
 кредита в срок</td>
-  <td><Pandas, Python, предобработка данных</td>
+  <td>Pandas, Python, предобработка данных</td>
   <td>Завершен</td>
 </tr>
 <tr>
@@ -31,8 +31,7 @@
   <td>Завершен</td>
 </tr>
 <tr>
-  <td><a href = 
-"https://github.com/GreyGreyWolf/Yandex_Practicum_Data_Science/tree/master/4_determination_of_the_prospective_tariff">Определение 
+  <td><a href="https://github.com/GreyGreyWolf/Yandex_Practicum_Data_Science/tree/master/4_determination_of_the_prospective_tariff">Определение 
 выгодного тарифа для телеком компании</a></td>
   <td>На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа</td>
   <td>Python,Pandas,Matplotlib,NumPy,SciPy,описательная статистика,проверка статистических гипотез</td>
