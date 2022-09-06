@@ -8,8 +8,7 @@
   <th>Статус проекта</th>
 </tr> 
 <tr>
-  <td><a href = 
-"https://github.com/GreyGreyWolf/Yandex_Practicum_Data_Science/tree/master/1_music_of_big_cities">Исследование данных 
+  <td><a href="https://github.com/GreyGreyWolf/Yandex_Practicum_Data_Science/tree/master/1_music_of_big_cities">Исследование данных 
 сервиса “Яндекс.Музыка” — сравнение пользователей двух городов</a></td>
   <td>На реальных данных Яндекс.Музыки c помощью библиотеки Pandas и её возможностей проверить данные и сравнить поведение и предпочтения 
 пользователей двух столиц — Москвы и Санкт-Петербурга.</td>
@@ -19,20 +18,18 @@
 <tr>
   <td><a href  = "https://github.com/GreyGreyWolf/Yandex_Practicum_Data_Science/tree/master/2_data_preprocessing">Исследование 
 надёжности заёмщиков — анализ банковских данных</a></td>
-  <td>
-На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата 
+  <td>На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата 
 кредита в срок</td>
   <td><Pandas, Python, предобработка данных</td>
   <td>Завершен</td>
 </tr>
 <tr>
-  <td><a href 
-="https://github.com/GreyGreyWolf/Yandex_Practicum_Data_Science/tree/master/3_research_for_the_sale_of_apartaments">Продажа 
+  <td><a href="https://github.com/GreyGreyWolf/Yandex_Practicum_Data_Science/tree/master/3_research_for_the_sale_of_apartaments">Продажа 
 квартир в Санкт-Петербурге — анализ рынка недвижимости</a></td>
   <td>Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир</td>
-</tr>
   <td>Python, Pandas, Matplotlib, Исследовательский анализ, визуализация даннных, предобработка данных</td>
   <td>Завершен</td>
+</tr>
 <tr>
   <td><a href = 
 "https://github.com/GreyGreyWolf/Yandex_Practicum_Data_Science/tree/master/4_determination_of_the_prospective_tariff">Определение 
